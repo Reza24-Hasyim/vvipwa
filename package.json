@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AgusAliansyah/vvipbot-wa"
+    "url": "git+https://github.com/Reza24-Hasyim/vvipwa"
   },
   "keywords": [
     "K"
   ],
-  "author": "Agusbot",
+  "author": "Rezacans",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AgusAliansyah/vvipbot-wa/issues"
+    "url": "https://github.com/Reza24-Hasyim/vvipwa/issues"
   },
-  "homepage": "https://github.com/AgusAliansyah/vvipbot-wa#readme"
+  "homepage": "https://github.com/Reza24-Hasyim/vvipwa-wa#readme"
 }
