@@ -11,16 +11,16 @@
 </p>
 
 <div align="center">
-   <a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"> "AGUS BOT" <a href="https://imgbb.com/"><img src="https://i.ibb.co/HNvqY6F/vvipindo-bot.jpg" alt="vvipindo-bot" border="0"></a>
-    <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
+   <a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"> "REZA CANS" <a href="https://imgbb.com/"><img src="https://ibb.co/yXhxT96" alt="vvipindo-bot" border="0"></a>
+    <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI KOPI PASTE BRO HAHAHA </h3>
 
 # Hai 👋🏻
 
-Re-upload numpang ganti nama gabakal bikin lu pro
+PAKE AJA G PAPA KO:)
 </div>
 
 
-## Give me Start ⭐ please
+## Give me Start Dolars $ please
 
 ## Alat
 
